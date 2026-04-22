@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7B2FBE&height=250&section=header&text=Hi,%20I'm%20Shanmukha%20👋&fontSize=80&fontAlignY=35&desc=AI/DS%20Engineer%20|%20Full-Stack%20&%20Systems&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7B2FBE&height=250&section=header&text=Hi,%20I'm%20Sagar%20👋&fontSize=80&fontAlignY=35&desc=AI/DS%20Engineer%20|%20Full-Stack%20&%20Systems&descAlignY=55&descAlign=50" />
 
 ### Accelerating development with AI and building robust backend systems
 
