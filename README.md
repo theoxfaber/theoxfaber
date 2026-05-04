@@ -1,79 +1,33 @@
-<div align="center">
+# Hi, I'm Theo 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7B2FBE&height=250&section=header&text=Hi,%20I'm%20Sagar%20👋&fontSize=80&fontAlignY=35&desc=AI/DS%20Engineer%20|%20Full-Stack%20&%20Systems&descAlignY=55&descAlign=50" />
+**AI-Augmented Developer | Systems & Web3 Engineering**
 
-### Accelerating development with AI and building robust backend systems
+I build high-complexity, architecturally dense systems by aggressively leveraging AI tools to prototype, design, and ship at scale. I specialize in conceptualizing advanced architectures (MEV bots, DeFi simulators, deterministic systems) and using LLMs to bring them to life. 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shanmukhkiransagar/) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shanmukhkiransagar@gmail.com)
+Currently, I'm on a deep-dive journey to master the underlying systems-level programming—specifically Rust, Tokio, and networking fundamentals—that powers the applications I architect. 
 
-</div>
+My philosophy: Use AI to design and move fast, but build the raw foundational knowledge to understand and control every byte of the execution.
 
-<br/>
+### 🚧 Current Focus: The Systems Deep Dive
+I am currently executing a rigorous, ground-up sprint to master Rust without the training wheels.
+- **Currently Building:** `replay-proxy` - A deterministic HTTP traffic recorder and replay engine in Rust.
+- **Core Goals:** Mastering async Rust (Tokio), low-level TCP/HTTP parsing, and deterministic testing environments.
 
-### 👨💻 About Me
+### 🛠️ Portfolio Highlights
 
-I'm a **B.Tech Artificial Intelligence & Data Science** student at Parul University (Class of 2028). I specialize in full-stack development, systems programming, and AI model evaluation. I aggressively use AI to accelerate my development process and tackle complex engineering challenges.
+#### Blockchain & MEV
+*   **[mev-arbitrage-bot](https://github.com/theoxfaber/mev-arbitrage-bot):** An Ethereum MEV engine utilizing Bellman-Ford negative-cycle detection for multi-hop arbitrage. Flashbots and revm integrated.
+*   **[arbitrage-bot](https://github.com/theoxfaber/arbitrage-bot):** High-performance paper trading simulator for Binance/Bybit order books.
+*   **[solana-defi-sim](https://github.com/theoxfaber/solana-defi-sim):** Solana DeFi execution engine featuring an Anchor-based PDA gatekeeper and asynchronous Python simulation agents.
+*   **[WebWallet](https://github.com/theoxfaber/WebWallet):** A modern, non-custodial Solana browser wallet built with React, Vite, and TypeScript.
 
-<br/>
+#### Systems & Tooling
+*   **[filemind](https://github.com/theoxfaber/filemind):** Deterministic, zero-network, local file organizer written in Rust with a 3-tier ML confidence classifier.
 
-### 🚀 What I'm Up To
+### 💡 Tech Stack
+*   **Languages:** Rust, TypeScript, Python
+*   **Ecosystems:** Tokio, React/Vite, Solana (Anchor), Ethereum (revm)
+*   **Superpower:** AI-Assisted Architecture & Rapid Prototyping
 
-- 📚 **Studying:** Mastering **Java, Spring Boot, Python, and SQL** for robust backend and data development.
-- 🦀 **Exploring:** Diving into high-performance and systems languages like **Rust**.
-- 💼 **Working:** Freelancing in AI RLHF and code evaluations for major models, alongside experience in quantitative trading.
-
-<br/>
-
-### 🏆 Featured Project
-
-<table bordercolor="#7B2FBE">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🔥 Solana DeFi Stress Simulator</h3>
-      <br />
-      <p align="center">
-        <a href="https://github.com/theoxfaber/solana-defi-sim">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=theoxfaber&repo=solana-defi-sim&theme=radical" alt="Solana DeFi Sim" />
-        </a>
-      </p>
-      <p>A multi-phase market cycle simulation engine built with an on-chain Anchor firewall, Node.js deployment pipelines, and an async Python execution agent.</p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-### 🛠️ Tech Stack & Tools
-
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-</p>
-
-**Frameworks & Infrastructure**
-<p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</p>
-
-**Workflow & Focus Areas**
-<p>
-  <img src="https://img.shields.io/badge/AI_RLHF-FCC624?style=for-the-badge&logo=openai&logoColor=black" />
-  <img src="https://img.shields.io/badge/Quant_Trading-1E1E1E?style=for-the-badge&logo=bitcoin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Systems_Prog-7B2FBE?style=for-the-badge&logo=linux&logoColor=white" />
-</p>
-
-<br/>
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theoxfaber&show_icons=true&theme=radical&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theoxfaber&theme=radical&hide_border=true" />
-</div>
+---
+*"I want to understand the engine, not just drive the car."*
