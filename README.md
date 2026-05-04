@@ -1,33 +1,39 @@
-# Hi, I'm Theo 👋
+# Theo Faber
 
-**AI-Augmented Developer | Systems & Web3 Engineering**
+**Software Engineer | Systems & Web3**
 
-I build high-complexity, architecturally dense systems by aggressively leveraging AI tools to prototype, design, and ship at scale. I specialize in conceptualizing advanced architectures (MEV bots, DeFi simulators, deterministic systems) and using LLMs to bring them to life. 
+I am a software engineer focused on designing and building high-performance, architecturally dense systems. I specialize in systems-level programming with Rust, asynchronous runtimes (Tokio), and deterministic execution environments, primarily within the Web3 and DeFi sectors.
 
-Currently, I'm on a deep-dive journey to master the underlying systems-level programming—specifically Rust, Tokio, and networking fundamentals—that powers the applications I architect. 
-
-My philosophy: Use AI to design and move fast, but build the raw foundational knowledge to understand and control every byte of the execution.
-
-### 🚧 Current Focus: The Systems Deep Dive
-I am currently executing a rigorous, ground-up sprint to master Rust without the training wheels.
-- **Currently Building:** `replay-proxy` - A deterministic HTTP traffic recorder and replay engine in Rust.
-- **Core Goals:** Mastering async Rust (Tokio), low-level TCP/HTTP parsing, and deterministic testing environments.
-
-### 🛠️ Portfolio Highlights
-
-#### Blockchain & MEV
-*   **[mev-arbitrage-bot](https://github.com/theoxfaber/mev-arbitrage-bot):** An Ethereum MEV engine utilizing Bellman-Ford negative-cycle detection for multi-hop arbitrage. Flashbots and revm integrated.
-*   **[arbitrage-bot](https://github.com/theoxfaber/arbitrage-bot):** High-performance paper trading simulator for Binance/Bybit order books.
-*   **[solana-defi-sim](https://github.com/theoxfaber/solana-defi-sim):** Solana DeFi execution engine featuring an Anchor-based PDA gatekeeper and asynchronous Python simulation agents.
-*   **[WebWallet](https://github.com/theoxfaber/WebWallet):** A modern, non-custodial Solana browser wallet built with React, Vite, and TypeScript.
-
-#### Systems & Tooling
-*   **[filemind](https://github.com/theoxfaber/filemind):** Deterministic, zero-network, local file organizer written in Rust with a 3-tier ML confidence classifier.
-
-### 💡 Tech Stack
-*   **Languages:** Rust, TypeScript, Python
-*   **Ecosystems:** Tokio, React/Vite, Solana (Anchor), Ethereum (revm)
-*   **Superpower:** AI-Assisted Architecture & Rapid Prototyping
+My engineering philosophy centers on rigorous performance optimization, memory safety, and building scalable foundations from the ground up.
 
 ---
-*"I want to understand the engine, not just drive the car."*
+
+### 🛠️ Core Technologies
+- **Systems & Backend:** Rust, C++, Python
+- **Runtimes & Frameworks:** Tokio, Axum, Node.js
+- **Web3 Ecosystem:** Solana (Anchor, RPC), Ethereum (EVM, revm, Flashbots)
+- **Infrastructure:** Docker, Linux, SQLx, WebSockets
+
+---
+
+### 🏗️ Featured Projects
+
+#### Distributed Systems & DeFi
+* **[arbitrage-bot](https://github.com/theoxfaber/arbitrage-bot)**  
+  A pure Rust, high-frequency statistical arbitrage simulator. Implements a lock-free `DashMap` orderbook processing sub-millisecond WebSocket feeds (Binance/Bybit) and a native Rust ML heuristic classifier for gap detection.
+* **[mev-arbitrage-bot](https://github.com/theoxfaber/mev-arbitrage-bot)**  
+  An Ethereum MEV execution engine. Utilizes Bellman-Ford negative-cycle detection for multi-hop DEX arbitrage, integrated tightly with `revm` for local EVM state simulation and Flashbots bundle submission.
+* **[SolVault](https://github.com/theoxfaber/SolVault)** *(formerly WebWallet)*  
+  A non-custodial, highly secure Solana terminal wallet built natively in Rust. Features BIP39 mnemonic generation, SLIP-0010 ed25519 HD derivation, and AES-256-GCM encrypted local storage using Argon2id key derivation.
+* **[solana-defi-sim](https://github.com/theoxfaber/solana-defi-sim)**  
+  A Solana DeFi execution engine featuring an Anchor-based PDA gatekeeper protocol and asynchronous Python simulation agents testing cross-program invocations (CPIs).
+
+#### Systems Tooling
+* **[replay-proxy](https://github.com/theoxfaber/replay-proxy)**  
+  A deterministic HTTP traffic recorder and replay engine written in Rust, leveraging Tokio for low-level TCP/HTTP parsing and deterministic test environment creation.
+* **[filemind](https://github.com/theoxfaber/filemind)**  
+  A zero-network, local file organizer written in Rust utilizing a deterministic 3-tier classification system.
+
+---
+
+*"Building robust abstractions requires a fundamental mastery of the execution layer."*
