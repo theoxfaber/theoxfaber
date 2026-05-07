@@ -29,8 +29,6 @@ My engineering philosophy centers on rigorous performance optimization, memory s
   A Solana DeFi execution engine featuring an Anchor-based PDA gatekeeper protocol and asynchronous Python simulation agents testing cross-program invocations (CPIs).
 
 #### Systems Tooling
-* **[replay-proxy](https://github.com/theoxfaber/replay-proxy)**  
-  A deterministic HTTP traffic recorder and replay engine written in Rust, leveraging Tokio for low-level TCP/HTTP parsing and deterministic test environment creation.
 * **[filemind](https://github.com/theoxfaber/filemind)**  
   A zero-network, local file organizer written in Rust utilizing a deterministic 3-tier classification system.
 
