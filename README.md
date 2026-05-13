@@ -1,37 +1,59 @@
-# Theo Faber
+# Saripalli Shanmukha Kiran Sagar (Theo Faber)
 
-**Software Engineer | Systems & Web3**
+**Systems Engineer | Rust Specialist | Web3 Architect**
 
-I am a software engineer focused on designing and building high-performance, architecturally dense systems. I specialize in systems-level programming with Rust, asynchronous runtimes (Tokio), and deterministic execution environments, primarily within the Web3 and DeFi sectors.
-
-My engineering philosophy centers on rigorous performance optimization, memory safety, and building scalable foundations from the ground up.
+I build high-performance, architecturally dense systems with a focus on deterministic execution, low-latency networking, and memory-safe infrastructure. My work bridges the gap between systems-level engineering and decentralized finance.
 
 ---
 
-### 🛠️ Core Technologies
-- **Systems & Backend:** Rust, C++, Python
-- **Runtimes & Frameworks:** Tokio, Axum, Node.js
-- **Web3 Ecosystem:** Solana (Anchor, RPC), Ethereum (EVM, revm, Flashbots)
-- **Infrastructure:** Docker, Linux, SQLx, WebSockets
+### 🚀 Active Development
+
+| Project | Status | Description |
+| :--- | :--- | :--- |
+| **[ferrous-browser](https://github.com/theoxfaber/ferrous-browser)** | `v0.1.0` | **State-of-the-Art** async Rust browser automation. 16x faster than Playwright for selector waits. |
+| **[polymarket-bot](https://github.com/theoxfaber/polymarket-bot)** | `Production` | High-frequency CLOB trading engine with EIP-712 signing and risk-managed execution. |
+| **[ironflow](https://github.com/theoxfaber/ironflow)** | `Public Beta` | A zero-infrastructure, high-performance workflow orchestrator for edge computing. |
 
 ---
 
-### 🏗️ Featured Projects
+### 🛠️ Technical Arsenal
 
-#### Distributed Systems & DeFi
-* **[arbitrage-bot](https://github.com/theoxfaber/arbitrage-bot)**  
-  A pure Rust, high-frequency statistical arbitrage simulator. Implements a lock-free `DashMap` orderbook processing sub-millisecond WebSocket feeds (Binance/Bybit) and a native Rust ML heuristic classifier for gap detection.
-* **[mev-arbitrage-bot](https://github.com/theoxfaber/mev-arbitrage-bot)**  
-  An Ethereum MEV execution engine. Utilizes Bellman-Ford negative-cycle detection for multi-hop DEX arbitrage, integrated tightly with `revm` for local EVM state simulation and Flashbots bundle submission.
-* **[SolVault](https://github.com/theoxfaber/SolVault)** *(formerly WebWallet)*  
-  A non-custodial, highly secure Solana terminal wallet built natively in Rust. Features BIP39 mnemonic generation, SLIP-0010 ed25519 HD derivation, and AES-256-GCM encrypted local storage using Argon2id key derivation.
-* **[solana-defi-sim](https://github.com/theoxfaber/solana-defi-sim)**  
-  A Solana DeFi execution engine featuring an Anchor-based PDA gatekeeper protocol and asynchronous Python simulation agents testing cross-program invocations (CPIs).
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,cpp,python,ts,nextjs,postgres,sqlite,redis,docker,linux,githubactions,git" />
+  </a>
+</p>
 
-#### Systems Tooling
-* **[filemind](https://github.com/theoxfaber/filemind)**  
-  A zero-network, local file organizer written in Rust utilizing a deterministic 3-tier classification system.
+- **Systems & Runtimes:** Expert-level Rust (Tokio/Async), C++, Low-latency networking (CDP, WebSockets).
+- **Web3 / DeFi:** Ethereum (EVM, `revm`, Flashbots), Solana (Anchor, PDAs), EIP-712/Typed Data.
+- **Data & Infra:** Distributed task orchestration, SQLite (WAL mode optimization), High-throughput data ingestion.
 
 ---
+
+### 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=theoxfaber&show_icons=true&theme=tokyonight&hide_border=true" alt="Theo's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theoxfaber&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 🏗️ Selected Portfolio
+
+#### **Distributed Systems & DeFi**
+* **[mev-arbitrage-bot](https://github.com/theoxfaber/mev-arbitrage-bot)**: Multi-hop DEX arbitrage engine using Bellman-Ford on local EVM state simulations.
+* **[arbitrage-bot](https://github.com/theoxfaber/arbitrage-bot)**: High-frequency statistical arbitrage simulator with lock-free `DashMap` orderbooks.
+* **[SolVault](https://github.com/theoxfaber/SolVault)**: Secure, non-custodial Solana terminal with AES-256-GCM encrypted local storage.
+
+#### **Systems Tooling**
+* **[filemind](https://github.com/theoxfaber/filemind)**: Deterministic, local-first file classification and organization system.
+
+---
+
+### 📬 Connect with Me
+
+- **Email:** [shanmukhkiransagar@gmail.com](mailto:shanmukhkiransagar@gmail.com)
+- **LinkedIn:** [Saripalli Shanmukha Kiran Sagar](https://www.linkedin.com/in/shanmukhkiransagar/)
 
 *"Building robust abstractions requires a fundamental mastery of the execution layer."*
