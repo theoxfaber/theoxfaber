@@ -11,7 +11,6 @@ I build high-performance, architecturally dense systems with a focus on determin
 | Project | Status | Description |
 | :--- | :--- | :--- |
 | **[ferrous-browser](https://github.com/theoxfaber/ferrous-browser)** | `v0.1.0` | **State-of-the-Art** async Rust browser automation. 16x faster than Playwright for selector waits. |
-| **[polymarket-bot](https://github.com/theoxfaber/polymarket-bot)** | `Production` | High-frequency CLOB trading engine with EIP-712 signing and risk-managed execution. |
 | **[ironflow](https://github.com/theoxfaber/ironflow)** | `Public Beta` | A zero-infrastructure, high-performance workflow orchestrator for edge computing. |
 
 ---
@@ -20,11 +19,11 @@ I build high-performance, architecturally dense systems with a focus on determin
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,cpp,python,ts,nextjs,postgres,sqlite,redis,docker,linux,githubactions,git" />
+    <img src="https://skillicons.dev/icons?i=rust,python,ts,postgres,sqlite,docker,linux,githubactions,git" />
   </a>
 </p>
 
-- **Systems & Runtimes:** Expert-level Rust (Tokio/Async), C++, Low-latency networking (CDP, WebSockets).
+- **Systems & Runtimes:** Expert-level Rust (Tokio/Async), Python, Low-latency networking (CDP, WebSockets).
 - **Web3 / DeFi:** Ethereum (EVM, `revm`, Flashbots), Solana (Anchor, PDAs), EIP-712/Typed Data.
 - **Data & Infra:** Distributed task orchestration, SQLite (WAL mode optimization), High-throughput data ingestion.
 
