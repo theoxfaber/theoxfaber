@@ -8,10 +8,10 @@ I build high-performance, architecturally dense systems with a focus on determin
 
 ### 🚀 Active Development
 
-| Project | Status | Description |
-| :--- | :--- | :--- |
-| **[ferrous-browser](https://github.com/theoxfaber/ferrous-browser)** | `v0.1.0` | **State-of-the-Art** async Rust browser automation. 16x faster than Playwright for selector waits. |
-| **[ironflow](https://github.com/theoxfaber/ironflow)** | `Public Beta` | A zero-infrastructure, high-performance workflow orchestrator for edge computing. |
+| Project | Description |
+| :--- | :--- |
+| **[ferrous-browser](https://github.com/theoxfaber/ferrous-browser)** | Async Rust browser automation via the Chrome DevTools Protocol. |
+| **[ironflow](https://github.com/theoxfaber/ironflow)** | High-performance workflow orchestrator for edge computing. |
 
 ---
 
@@ -19,22 +19,13 @@ I build high-performance, architecturally dense systems with a focus on determin
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,python,ts,postgres,sqlite,docker,linux,githubactions,git" />
+    <img src="https://skillicons.dev/icons?i=rust,python,ts" />
   </a>
 </p>
 
 - **Systems & Runtimes:** Expert-level Rust (Tokio/Async), Python, Low-latency networking (CDP, WebSockets).
 - **Web3 / DeFi:** Ethereum (EVM, `revm`, Flashbots), Solana (Anchor, PDAs), EIP-712/Typed Data.
 - **Data & Infra:** Distributed task orchestration, SQLite (WAL mode optimization), High-throughput data ingestion.
-
----
-
-### 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theoxfaber&show_icons=true&theme=tokyonight&hide_border=true" alt="Theo's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theoxfaber&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
