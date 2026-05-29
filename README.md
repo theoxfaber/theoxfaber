@@ -1,8 +1,8 @@
 # Saripalli Shanmukha Kiran Sagar (Theo Faber)
 
-**Systems Engineer | Rust Specialist | Web3 Architect**
+**Systems Engineer | Rust Specialist | LLM Infrastructure | Web3 Architect**
 
-I build high-performance, architecturally dense systems with a focus on deterministic execution, low-latency networking, and memory-safe infrastructure. My work bridges the gap between systems-level engineering and decentralized finance.
+I build high-performance, deterministic systems at every layer — from GPU compute runtimes and LLM inference engines to low-latency MEV infrastructure and decentralized finance protocols.
 
 ---
 
@@ -10,7 +10,8 @@ I build high-performance, architecturally dense systems with a focus on determin
 
 | Project | Description |
 | :--- | :--- |
-| **[ferrous-browser](https://github.com/theoxfaber/ferrous-browser)** | Async Rust browser automation via the Chrome DevTools Protocol. |
+| **[aether](https://github.com/theoxfaber/aether)** | Heterogeneous compute runtime + LLM inference engine. DAG scheduler, autograd, fused WGSL compute shaders, GGUF model support, concurrent request serving. |
+| **[ferrous-browser](https://github.com/theoxfaber/ferrous-browser)** | Async Rust browser automation via the Chrome DevTools Protocol — no Node.js required. |
 | **[ironflow](https://github.com/theoxfaber/ironflow)** | High-performance workflow orchestrator for edge computing. |
 
 ---
@@ -23,13 +24,16 @@ I build high-performance, architecturally dense systems with a focus on determin
   </a>
 </p>
 
-- **Systems & Runtimes:** Expert-level Rust (Tokio/Async), Python, Low-latency networking (CDP, WebSockets).
-- **Web3 / DeFi:** Ethereum (EVM, `revm`, Flashbots), Solana (Anchor, PDAs), EIP-712/Typed Data.
-- **Data & Infra:** Distributed task orchestration, SQLite (WAL mode optimization), High-throughput data ingestion.
+- **Systems & Runtimes:** Expert-level Rust (Tokio/Async), GPU compute (WGPU/Metal/Vulkan), LLM inference (GGUF, quantization)
+- **Web3 / DeFi:** Ethereum (EVM, `revm`, Flashbots), Solana (Anchor, PDAs), MEV (arbitrage, backrunning, searcher infrastructure)
+- **Data & Infra:** Distributed task orchestration, SQLite (WAL mode optimization), high-throughput data pipelines
 
 ---
 
 ### 🏗️ Selected Portfolio
+
+#### **AI / Compute Infrastructure**
+* **[aether](https://github.com/theoxfaber/aether)**: Production-grade LLM inference engine in Rust. DAG-based compute graph, WGPU-accelerated inference with fused WGSL quantized matmul shaders (Q8_0/Q4_K), GGUF model loading, concurrent request pool, OpenAI-compatible API server. Synthetic e2e tests, 38+ unit tests, GPU CI.
 
 #### **Distributed Systems & DeFi**
 * **[mev-arbitrage-bot](https://github.com/theoxfaber/mev-arbitrage-bot)**: Multi-hop DEX arbitrage engine using Bellman-Ford on local EVM state simulations.
