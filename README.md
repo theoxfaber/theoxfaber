@@ -1,11 +1,7 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2&height=200&section=header&text=shanmukha%20kiran%20sagar&fontSize=50&animation=fadeIn&fontAlignY=45" />
-</div>
-
 <p align="center">
-  <i>building systems in <b>rust</b>.</i>
-  <br/>
-  b.tech ai/ds @ parul university
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=7B2FBE&center=true&vCenter=true&width=600&height=80&lines=shanmukha+kiran+sagar;building+systems+in+rust;b.tech+ai%2Fds+%40+parul+university" alt="typing svg" />
+  </a>
 </p>
 
 ---
@@ -41,6 +37,14 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theoxfaber/theoxfaber/output/github-snake.svg" />
     <img alt="snake" src="https://raw.githubusercontent.com/theoxfaber/theoxfaber/output/github-snake.svg" width="80%" />
   </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=theoxfaber&theme=radical&hide_border=true&custom_title=activity%20graph" />
+  </a>
 </div>
 
 <br/>
