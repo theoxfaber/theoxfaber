@@ -1,6 +1,12 @@
 ### shanmukha kiran sagar
 
-building systems in rust. b.tech ai/ds @ parul university.
+building systems in rust · b.tech ai/ds @ parul university
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,python,java,solana" />
+  </a>
+</p>
 
 ---
 
