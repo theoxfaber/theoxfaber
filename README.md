@@ -29,6 +29,31 @@
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
 </p>
 
+---
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://terminal-identity-opal.vercel.app/api?name=Sagar&username=theoxfaber&role=building%20systems%20in%20rust&tagline=b.tech%20ai%2Fds%20%40%20parul%20university&theme=amber/solar&pattern=grid&width=480&height=auto&motion=pulse" width="100%" alt="terminal card" />
+      </td>
+      <td width="50%">
+        <a href="https://gitcity.natrajx.in/theoxfaber">
+          <img src="https://gitcity.natrajx.in/api/svg?u=theoxfaber&theme=aurora" width="100%" alt="3d contribution globe" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="assets/neural-stack.svg" width="100%" alt="neural tech stack" />
+</div>
+
 <br/>
 
 <div align="center">
@@ -45,6 +70,26 @@
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=theoxfaber&theme=radical&hide_border=true&custom_title=activity%20graph" />
   </a>
+</div>
+
+<br/>
+
+<!-- ghstats cards — run .github/workflows/ghstats.yml to generate -->
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="output/radical/profile-details.svg" width="100%" alt="profile"/></td>
+      <td><img src="output/radical/stats.svg" width="100%" alt="stats"/></td>
+    </tr>
+    <tr>
+      <td><img src="output/radical/contributions-heatmap.svg" width="100%" alt="heatmap"/></td>
+      <td><img src="output/radical/streak.svg" width="100%" alt="streak"/></td>
+    </tr>
+    <tr>
+      <td><img src="output/radical/top-starred-repos.svg" width="100%" alt="top repos"/></td>
+      <td><img src="output/radical/contributions-by-year.svg" width="100%" alt="contributions by year"/></td>
+    </tr>
+  </table>
 </div>
 
 <br/>
