@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="200" viewBox="0 0 340 200" font-family="'Segoe UI', Ubuntu, Sans-Serif">
+  <rect x="0.5" y="0.5" width="339" height="199" rx="6" fill="#141321" stroke="#141321" stroke-opacity="1.00"/>
+  <text x="20" y="30" font-size="15" font-weight="600" fill="#fe428e">Contributions by Year</text>
+  <line x1="35" y1="45" x2="35" y2="155" stroke="#f8d847"/>
+  <line x1="31" y1="155" x2="35" y2="155" stroke="#f8d847"/>
+  <text x="29" y="158" font-size="10" fill="#f8d847" text-anchor="end">0</text>
+  <line x1="31" y1="140" x2="35" y2="140" stroke="#f8d847"/>
+  <text x="29" y="143" font-size="10" fill="#f8d847" text-anchor="end">5</text>
+  <line x1="31" y1="124" x2="35" y2="124" stroke="#f8d847"/>
+  <text x="29" y="127" font-size="10" fill="#f8d847" text-anchor="end">10</text>
+  <line x1="31" y1="108" x2="35" y2="108" stroke="#f8d847"/>
+  <text x="29" y="111" font-size="10" fill="#f8d847" text-anchor="end">15</text>
+  <line x1="31" y1="93" x2="35" y2="93" stroke="#f8d847"/>
+  <text x="29" y="96" font-size="10" fill="#f8d847" text-anchor="end">20</text>
+  <line x1="31" y1="77" x2="35" y2="77" stroke="#f8d847"/>
+  <text x="29" y="80" font-size="10" fill="#f8d847" text-anchor="end">25</text>
+  <line x1="31" y1="61" x2="35" y2="61" stroke="#f8d847"/>
+  <text x="29" y="64" font-size="10" fill="#f8d847" text-anchor="end">30</text>
+  <line x1="31" y1="45" x2="35" y2="45" stroke="#f8d847"/>
+  <text x="29" y="48" font-size="10" fill="#f8d847" text-anchor="end">35</text>
+  <line x1="35" y1="155" x2="325" y2="155" stroke="#f8d847"/>
+  <rect x="35.00" y="148.71" width="95.33" height="6.29" rx="2" fill="#684f9b"><title>2024 — 2 commits</title></rect>
+  <text x="82.67" y="169" font-size="10" fill="#f8d847" text-anchor="middle">2024</text>
+  <rect x="132.33" y="73.29" width="95.33" height="81.71" rx="2" fill="#684f9b"><title>2025 — 26 commits</title></rect>
+  <text x="180.00" y="169" font-size="10" fill="#f8d847" text-anchor="middle">2025</text>
+  <rect x="229.67" y="48.14" width="95.33" height="106.86" rx="2" fill="#ae81ff"><title>2026 — 34 commits</title></rect>
+  <text x="277.33" y="169" font-size="10" fill="#f8d847" text-anchor="middle">2026</text>
+</svg>
