@@ -31,6 +31,10 @@
 
 ---
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theoxfaber&theme=radical" width="100%" alt="profile summary" />
+</div>
+
 <br/>
 
 <div align="center">
@@ -52,6 +56,14 @@
 
 <div align="center">
   <img src="assets/neural-stack.svg" width="100%" alt="neural tech stack" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="maeul-in-the-sky-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="maeul-in-the-sky-light.svg" />
+    <img alt="contribution terrain" src="maeul-in-the-sky-dark.svg" width="100%" />
+  </picture>
 </div>
 
 <br/>
