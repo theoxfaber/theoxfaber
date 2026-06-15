@@ -43,10 +43,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="assets/neural-stack.svg" width="100%" alt="neural tech stack" />
-</div>
-
 <br/>
 
 <div align="center">
