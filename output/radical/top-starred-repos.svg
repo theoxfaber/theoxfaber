@@ -22,8 +22,8 @@
   <rect x="150" y="118" width="27.69" height="10" rx="3" fill="#ae81ff"/>
   <text x="334" y="126" font-size="12" font-weight="600" fill="#ae81ff" text-anchor="end">6 ★</text>
   <circle cx="24" cy="144" r="4" fill="#dea584"/>
-  <text x="34" y="148" font-size="12" fill="#a9fef7">filemind</text>
+  <text x="34" y="148" font-size="12" fill="#a9fef7">arbitrage-bot</text>
   <rect x="150" y="140" width="120" height="10" rx="3" fill="#ae81ff" fill-opacity="0.15"/>
-  <rect x="150" y="140" width="13.85" height="10" rx="3" fill="#ae81ff"/>
-  <text x="334" y="148" font-size="12" font-weight="600" fill="#ae81ff" text-anchor="end">3 ★</text>
+  <rect x="150" y="140" width="18.46" height="10" rx="3" fill="#ae81ff"/>
+  <text x="334" y="148" font-size="12" font-weight="600" fill="#ae81ff" text-anchor="end">4 ★</text>
 </svg>
