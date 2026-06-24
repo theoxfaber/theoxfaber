@@ -9,8 +9,8 @@
   <circle cx="24" cy="78" r="4" fill="#dea584"/>
   <text x="34" y="82" font-size="12" fill="#a9fef7">aether</text>
   <rect x="150" y="74" width="120" height="10" rx="3" fill="#ae81ff" fill-opacity="0.15"/>
-  <rect x="150" y="74" width="41.54" height="10" rx="3" fill="#ae81ff"/>
-  <text x="334" y="82" font-size="12" font-weight="600" fill="#ae81ff" text-anchor="end">9 ★</text>
+  <rect x="150" y="74" width="46.15" height="10" rx="3" fill="#ae81ff"/>
+  <text x="334" y="82" font-size="12" font-weight="600" fill="#ae81ff" text-anchor="end">10 ★</text>
   <circle cx="24" cy="100" r="4" fill="#dea584"/>
   <text x="34" y="104" font-size="12" fill="#a9fef7">ironflow</text>
   <rect x="150" y="96" width="120" height="10" rx="3" fill="#ae81ff" fill-opacity="0.15"/>
