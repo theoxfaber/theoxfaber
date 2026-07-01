@@ -8,7 +8,7 @@
   <rect x="20" y="87" width="10" height="10" fill="#f1e05a" stroke="#141321" stroke-width="1"/>
   <text x="36" y="95" font-size="11" fill="#a9fef7">JavaScript 2.48%</text>
   <rect x="20" y="107" width="10" height="10" fill="#1a5e9a" stroke="#141321" stroke-width="1"/>
-  <text x="36" y="115" font-size="11" fill="#a9fef7">WGSL 1.75%</text>
+  <text x="36" y="115" font-size="11" fill="#a9fef7">WGSL 1.74%</text>
   <rect x="20" y="127" width="10" height="10" fill="#663399" stroke="#141321" stroke-width="1"/>
   <text x="36" y="135" font-size="11" fill="#a9fef7">CSS 0.66%</text>
   <rect x="20" y="147" width="10" height="10" fill="#5686a5" stroke="#141321" stroke-width="1"/>
@@ -16,9 +16,9 @@
   <rect x="20" y="167" width="10" height="10" fill="#ae81ff" stroke="#141321" stroke-width="1"/>
   <text x="36" y="175" font-size="11" fill="#a9fef7">Other 1.41%</text>
   <path d="M250.00,55.00 A55.00,55.00 0 1 1 214.23,68.22 L230.49,87.21 A30.00,30.00 0 1 0 250.00,80.00 Z" fill="#dea584" stroke="#141321" stroke-width="1.5"/>
-  <path d="M214.23,68.22 A55.00,55.00 0 0 1 227.53,59.80 L237.74,82.62 A30.00,30.00 0 0 0 230.49,87.21 Z" fill="#4F5D95" stroke="#141321" stroke-width="1.5"/>
-  <path d="M227.53,59.80 A55.00,55.00 0 0 1 235.58,56.92 L242.14,81.05 A30.00,30.00 0 0 0 237.74,82.62 Z" fill="#f1e05a" stroke="#141321" stroke-width="1.5"/>
-  <path d="M235.58,56.92 A55.00,55.00 0 0 1 241.48,55.66 L245.35,80.36 A30.00,30.00 0 0 0 242.14,81.05 Z" fill="#1a5e9a" stroke="#141321" stroke-width="1.5"/>
+  <path d="M214.23,68.22 A55.00,55.00 0 0 1 227.54,59.80 L237.75,82.62 A30.00,30.00 0 0 0 230.49,87.21 Z" fill="#4F5D95" stroke="#141321" stroke-width="1.5"/>
+  <path d="M227.54,59.80 A55.00,55.00 0 0 1 235.59,56.92 L242.14,81.05 A30.00,30.00 0 0 0 237.75,82.62 Z" fill="#f1e05a" stroke="#141321" stroke-width="1.5"/>
+  <path d="M235.59,56.92 A55.00,55.00 0 0 1 241.48,55.66 L245.35,80.36 A30.00,30.00 0 0 0 242.14,81.05 Z" fill="#1a5e9a" stroke="#141321" stroke-width="1.5"/>
   <path d="M241.48,55.66 A55.00,55.00 0 0 1 243.73,55.36 L246.58,80.20 A30.00,30.00 0 0 0 245.35,80.36 Z" fill="#663399" stroke="#141321" stroke-width="1.5"/>
   <path d="M243.73,55.36 A55.00,55.00 0 0 1 245.15,55.21 L247.35,80.12 A30.00,30.00 0 0 0 246.58,80.20 Z" fill="#5686a5" stroke="#141321" stroke-width="1.5"/>
   <path d="M245.15,55.21 A55.00,55.00 0 0 1 250.00,55.00 L250.00,80.00 A30.00,30.00 0 0 0 247.35,80.12 Z" fill="#ae81ff" stroke="#141321" stroke-width="1.5"/>
