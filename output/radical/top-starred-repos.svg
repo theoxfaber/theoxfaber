@@ -5,25 +5,25 @@
   <text x="34" y="60" font-size="12" fill="#a9fef7">ferrous-browser</text>
   <rect x="150" y="52" width="120" height="10" rx="3" fill="#ae81ff" fill-opacity="0.15"/>
   <rect x="150" y="52" width="120.00" height="10" rx="3" fill="#ae81ff"/>
-  <text x="334" y="60" font-size="12" font-weight="600" fill="#ae81ff" text-anchor="end">26 ★</text>
+  <text x="334" y="60" font-size="12" font-weight="600" fill="#ae81ff" text-anchor="end">27 ★</text>
   <circle cx="24" cy="78" r="4" fill="#dea584"/>
   <text x="34" y="82" font-size="12" fill="#a9fef7">aether</text>
   <rect x="150" y="74" width="120" height="10" rx="3" fill="#ae81ff" fill-opacity="0.15"/>
-  <rect x="150" y="74" width="46.15" height="10" rx="3" fill="#ae81ff"/>
+  <rect x="150" y="74" width="44.44" height="10" rx="3" fill="#ae81ff"/>
   <text x="334" y="82" font-size="12" font-weight="600" fill="#ae81ff" text-anchor="end">10 ★</text>
   <circle cx="24" cy="100" r="4" fill="#dea584"/>
   <text x="34" y="104" font-size="12" fill="#a9fef7">ironflow</text>
   <rect x="150" y="96" width="120" height="10" rx="3" fill="#ae81ff" fill-opacity="0.15"/>
-  <rect x="150" y="96" width="27.69" height="10" rx="3" fill="#ae81ff"/>
+  <rect x="150" y="96" width="26.67" height="10" rx="3" fill="#ae81ff"/>
   <text x="334" y="104" font-size="12" font-weight="600" fill="#ae81ff" text-anchor="end">6 ★</text>
   <circle cx="24" cy="122" r="4" fill="#dea584"/>
   <text x="34" y="126" font-size="12" fill="#a9fef7">mev-arbitrage-bot</text>
   <rect x="150" y="118" width="120" height="10" rx="3" fill="#ae81ff" fill-opacity="0.15"/>
-  <rect x="150" y="118" width="27.69" height="10" rx="3" fill="#ae81ff"/>
+  <rect x="150" y="118" width="26.67" height="10" rx="3" fill="#ae81ff"/>
   <text x="334" y="126" font-size="12" font-weight="600" fill="#ae81ff" text-anchor="end">6 ★</text>
   <circle cx="24" cy="144" r="4" fill="#dea584"/>
   <text x="34" y="148" font-size="12" fill="#a9fef7">arbitrage-bot</text>
   <rect x="150" y="140" width="120" height="10" rx="3" fill="#ae81ff" fill-opacity="0.15"/>
-  <rect x="150" y="140" width="18.46" height="10" rx="3" fill="#ae81ff"/>
+  <rect x="150" y="140" width="17.78" height="10" rx="3" fill="#ae81ff"/>
   <text x="334" y="148" font-size="12" font-weight="600" fill="#ae81ff" text-anchor="end">4 ★</text>
 </svg>
