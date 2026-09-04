@@ -5,35 +5,35 @@
   <text x="34" y="55" font-size="12" fill="#a9fef7">ferrous-browser</text>
   <rect x="150" y="47" width="120" height="10" rx="3" fill="#ae81ff" fill-opacity="0.15"/>
   <rect x="150" y="47" width="120.00" height="10" rx="3" fill="#ae81ff"/>
-  <text x="334" y="55" font-size="12" font-weight="600" fill="#ae81ff" text-anchor="end">27 ★</text>
+  <text x="334" y="55" font-size="12" font-weight="600" fill="#ae81ff" text-anchor="end">28 ★</text>
   <circle cx="24" cy="71" r="4" fill="#dea584"/>
   <text x="34" y="75" font-size="12" fill="#a9fef7">aether</text>
   <rect x="150" y="67" width="120" height="10" rx="3" fill="#ae81ff" fill-opacity="0.15"/>
-  <rect x="150" y="67" width="44.44" height="10" rx="3" fill="#ae81ff"/>
+  <rect x="150" y="67" width="42.86" height="10" rx="3" fill="#ae81ff"/>
   <text x="334" y="75" font-size="12" font-weight="600" fill="#ae81ff" text-anchor="end">10 ★</text>
   <circle cx="24" cy="91" r="4" fill="#dea584"/>
   <text x="34" y="95" font-size="12" fill="#a9fef7">ironflow</text>
   <rect x="150" y="87" width="120" height="10" rx="3" fill="#ae81ff" fill-opacity="0.15"/>
-  <rect x="150" y="87" width="31.11" height="10" rx="3" fill="#ae81ff"/>
+  <rect x="150" y="87" width="30.00" height="10" rx="3" fill="#ae81ff"/>
   <text x="334" y="95" font-size="12" font-weight="600" fill="#ae81ff" text-anchor="end">7 ★</text>
   <circle cx="24" cy="111" r="4" fill="#dea584"/>
   <text x="34" y="115" font-size="12" fill="#a9fef7">mev-arbitrage-bot</text>
   <rect x="150" y="107" width="120" height="10" rx="3" fill="#ae81ff" fill-opacity="0.15"/>
-  <rect x="150" y="107" width="26.67" height="10" rx="3" fill="#ae81ff"/>
+  <rect x="150" y="107" width="25.71" height="10" rx="3" fill="#ae81ff"/>
   <text x="334" y="115" font-size="12" font-weight="600" fill="#ae81ff" text-anchor="end">6 ★</text>
   <circle cx="24" cy="131" r="4" fill="#dea584"/>
   <text x="34" y="135" font-size="12" fill="#a9fef7">filemind</text>
   <rect x="150" y="127" width="120" height="10" rx="3" fill="#ae81ff" fill-opacity="0.15"/>
-  <rect x="150" y="127" width="13.33" height="10" rx="3" fill="#ae81ff"/>
+  <rect x="150" y="127" width="12.86" height="10" rx="3" fill="#ae81ff"/>
   <text x="334" y="135" font-size="12" font-weight="600" fill="#ae81ff" text-anchor="end">3 ★</text>
   <circle cx="24" cy="151" r="4" fill="#dea584"/>
   <text x="34" y="155" font-size="12" fill="#a9fef7">arbitrage-bot</text>
   <rect x="150" y="147" width="120" height="10" rx="3" fill="#ae81ff" fill-opacity="0.15"/>
-  <rect x="150" y="147" width="13.33" height="10" rx="3" fill="#ae81ff"/>
+  <rect x="150" y="147" width="12.86" height="10" rx="3" fill="#ae81ff"/>
   <text x="334" y="155" font-size="12" font-weight="600" fill="#ae81ff" text-anchor="end">3 ★</text>
   <circle cx="24" cy="171" r="4" fill="#3572A5"/>
   <text x="34" y="175" font-size="12" fill="#a9fef7">solana-defi-sim</text>
   <rect x="150" y="167" width="120" height="10" rx="3" fill="#ae81ff" fill-opacity="0.15"/>
-  <rect x="150" y="167" width="8.89" height="10" rx="3" fill="#ae81ff"/>
+  <rect x="150" y="167" width="8.57" height="10" rx="3" fill="#ae81ff"/>
   <text x="334" y="175" font-size="12" font-weight="600" fill="#ae81ff" text-anchor="end">2 ★</text>
 </svg>
