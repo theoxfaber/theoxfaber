@@ -61,18 +61,6 @@ also: [agentic-payment-risk-governor](https://github.com/theoxfaber/agentic-paym
 
 ---
 
-### terrain
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="maeul-in-the-sky-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="maeul-in-the-sky-light.svg" />
-    <img alt="contribution terrain" src="maeul-in-the-sky-dark.svg" width="100%" />
-  </picture>
-</div>
-
----
-
 <div align="center">
   <a href="https://www.linkedin.com/in/shanmukhkiransagar/">
     <img src="https://img.shields.io/badge/-linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
