@@ -19,8 +19,8 @@
   <circle cx="24" cy="111" r="4" fill="#dea584"/>
   <text x="34" y="115" font-size="12" fill="#a9fef7">mev-arbitrage-bot</text>
   <rect x="150" y="107" width="120" height="10" rx="3" fill="#ae81ff" fill-opacity="0.15"/>
-  <rect x="150" y="107" width="22.50" height="10" rx="3" fill="#ae81ff"/>
-  <text x="334" y="115" font-size="12" font-weight="600" fill="#ae81ff" text-anchor="end">6 ★</text>
+  <rect x="150" y="107" width="26.25" height="10" rx="3" fill="#ae81ff"/>
+  <text x="334" y="115" font-size="12" font-weight="600" fill="#ae81ff" text-anchor="end">7 ★</text>
   <circle cx="24" cy="131" r="4" fill="#dea584"/>
   <text x="34" y="135" font-size="12" fill="#a9fef7">filemind</text>
   <rect x="150" y="127" width="120" height="10" rx="3" fill="#ae81ff" fill-opacity="0.15"/>
