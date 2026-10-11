@@ -6,7 +6,7 @@
 
 <p align="center">
   systems programmer working in <b>rust</b> — browser automation, ml runtimes, solana tooling, workflow engines.<br/>
-  b.tech ai/ds @ parul university · shipping single-binary, zero-bloat tools
+  b.tech ai/ds @ parul university · 
 </p>
 
 ---
